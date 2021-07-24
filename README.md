@@ -1,6 +1,7 @@
 # Droplet analysis
 
 The following steps are for Windows installation
+
 Step 1: Download miniconda for Windows https://docs.conda.io/en/latest/miniconda.html
 Install using default configurations
 EXCEPT: select "add miniconda to my PATH enivironment variable" (ignore warning)
@@ -21,4 +22,6 @@ After installation of packages is complete restart VS Code
 
 Step 6: Select "droplet-analysis" conda virtual environment as python interpreter by clicking blue strip in bottom left-hand corner and selecting "droplet-analysis" from dropdown menu
 
+Step 7: Change the input variable in the script you want to use to 'input'
 
+Step 8: Place directories with numbers as file names (e.g. protein concentration in µM or PEG %) and hit run
