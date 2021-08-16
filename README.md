@@ -26,7 +26,7 @@ Step 7: If you see the following the error in your terminal:  File C:\Users\User
     disabled on this system. For more information, see about_Execution_Policies at
     https:/go.microsoft.com/fwlink/?LinkID=135170.
     
-    Open your Windows Powershell as administrator and run the following command: set-executionpolicy remotesigned
+Open your Windows Powershell as administrator and run the following command: `set-executionpolicy remotesigned`
 
 Step 8: Select "droplet-analysis" conda virtual environment as python interpreter by clicking blue strip in bottom left-hand corner and selecting "droplet-analysis" from dropdown menu
 
